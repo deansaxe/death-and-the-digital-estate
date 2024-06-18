@@ -8,7 +8,9 @@ The proposed DADE CG will not deliver protocols, data formats, or other technica
 
 Please file issues and pull requests against the [charter](https://github.com/dhs-aws/death-and-the-digital-estate/blob/main/charter.md).  
 
-[Mailing List](https://lists.openid.net/mailman/listinfo/openid-digital-directives): 
+Have resources to share?  Please file a PR to place them [resources list](https://github.com/dhs-aws/death-and-the-digital-estate/blob/main/resources.md).
+
+[Mailing List](https://lists.openid.net/mailman/listinfo/openid-digital-directives)
 
 [Meeting Schedule](https://github.com/dhs-aws/death-and-the-digital-estate/issues/4): TBD 
 
