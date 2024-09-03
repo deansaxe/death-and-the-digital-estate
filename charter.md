@@ -25,7 +25,7 @@ The proposed DADE CG will focus on the following deliverables:
 
 - Develop proposed high level data flows for a future set of mechanisms to enable a marketplace for management of individuals’ digital estates across providers,
 
-The following are out of scope for the proposed DADE GC:
+The following are out of scope for the proposed DADE CG:
 
 - Development of any protocols related to managing a digital estate.  Any such protocol work will be deferred to a future working group.
 
