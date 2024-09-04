@@ -17,13 +17,17 @@ The proposed DADE CG will focus on the following deliverables:
 
 - Document the current state of the art for managing individual choices for handling individuals’ digital estates.  Identify and clarify examples of mechanisms currently deployed by platforms, social media services, and other large scale internet systems.
 
+- Document individuals' experiences with handling the digital estates of others to identify the difficulties they face managing the digital estate of incapacitated or deceased friends, family, and loved ones. These accounts may be anonymized at the discretion of the individuals involved.
+
 - Document the current state of government regulations, where they exist, for the management of individuals digital estates.
 
-- Development of use cases for the management of digital estates to include the data stored by, or on behalf of, the user, or containing the users likeness in audio, video, or other digital formats. Identify and document use cases that are out of scope for additional DADE CG effort due to the existence of law or regulation where such use cases are sufficiently established and managed today.
+- Development of use cases for the management of digital estates to include the data stored by, or on behalf of, the user, or containing the users likeness in audio, video, or other digital formats.  Develop nomeclature and roles for establishing delegated autorities which operate on behalf of an individual within a defined scope of authority.
+
+- Identify and document use cases that are out of scope for additional DADE CG effort due to the existence of law or regulation where such use cases are sufficiently established and managed today.
 
 - Develop educational information to raise awareness of the challenge and empowering individuals to assert control over their digital legacies effectively.
 
-- Develop proposed high level data flows for a future set of mechanisms to enable a marketplace for management of individuals’ digital estates across providers,
+- Develop proposed high level data flows for a future set of mechanisms to enable a marketplace for management of individuals’ digital estates across providers.
 
 The following are out of scope for the proposed DADE CG:
 
@@ -37,11 +41,7 @@ The community group will operate under the following Organizing Principles:
 
 - **Interoperability and Accessibility:** The CG’s work must promote interoperability among digital platforms to facilitate seamless data management and accessibility across diverse ecosystems, ensuring inclusivity, efficiency, and usability for individuals.
 
-The DADE CG will operate in English.  The work will progress via mailing list and telephone/internet conference calls combined with face-to-face meetings, where possible.  We seek a 2 year charter to develop to deliverables identified above.  At the end of this 2 year charter, we will assess the state of the DADE CG and determine whether to extend the charter, charter a working group to develop related protocols, or disband the community group.
+The DADE CG will operate in English.  The work will progress via mailing list and telephone/internet conference calls combined with face-to-face meetings, where possible.  We seek a 2 year charter to develop the deliverables identified above.  At the end of this 2 year charter, we will assess the state of the DADE CG and determine whether to extend the charter, charter a working group to develop related protocols, or disband the community group.
 
 **Proposers**
 - Dean H. Saxe (Beyond Identity)
-
-
-
-
